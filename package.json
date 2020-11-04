@@ -1,9 +1,11 @@
 {
   "name": "my-test-app-2020",
+  "private": true,
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "workspaces":  "packages/*",
+  "homepage": "https://github.com/igor-khorev/my-test-app-2020/blob#README.md",
   "devDependencies": {
     "lerna": "^3.20.2",
     "typescript": "^3.8.3"

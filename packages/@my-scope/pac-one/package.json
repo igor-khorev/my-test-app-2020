@@ -1,0 +1,10 @@
+{
+  "name": "@my-scope/pac-one",
+  "version": "1.0.0",
+  "dependencies": {
+    
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
