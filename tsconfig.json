@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true
+  },
+
+  "references": [
+    { "path": "./packages/@my-scope/pac-one" },
+    { "path": "./packages/@my-scope/pac-two" },
+    { "path": "./packages/@my-scope/tmp-pageobjects" }
+  ],
+  "exclude": [
+    "node_modules",
+    "**/__tests__/**"
+  ]
+}

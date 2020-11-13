@@ -1,0 +1,9 @@
+{
+    "extends": "../../../tsconfig.settings.json",
+    "compilerOptions": {
+        "rootDir": "src",
+        "outDir": "build"
+//        "types": ["node", "@types/jest", "@utam/loader", "wdio-utam-service"]
+    }
+//    "references": [{ "path": "node_modules/wdio-utam-service" }, { "path": "node_modules/@utam/loader" }]
+}
